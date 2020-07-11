@@ -1,1 +1,1 @@
-# homework2-responsive-portfolio
+Updated portfolio and resume
